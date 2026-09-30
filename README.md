@@ -6,6 +6,8 @@ From Lab User to Digital Lab Innovator
 AMT MOPH Update · EP.7/8 · Digital MT Lab
 8 ตุลาคม 2569 · 12:00–14:00 น. · ถ่ายทอดสดผ่าน Facebook Live สมาคมเทคนิคการแพทย์กระทรวงสาธารณสุข · CMTE 2 คะแนน
 
+[![Lab to App](poster.png)](https://peerapat-mt.github.io/lab-to-app-webgl/)
+
 ## ▶ ดูเวอร์ชัน Interactive
 
 **https://peerapat-mt.github.io/lab-to-app-webgl/**
@@ -15,6 +17,11 @@ AMT MOPH Update · EP.7/8 · Digital MT Lab
 - ฉาก Web App: คลิกหน้าจอ Dashboard เพื่อเปิดตัวอย่างที่ค้นหาและกรองได้จริง
 
 แนะนำให้เปิดบนคอมพิวเตอร์ด้วย Chrome หรือ Edge
+
+## 🎬 วิดีโอ (1080p · 50 วินาที · มีเสียง)
+
+- ดูออนไลน์: **https://peerapat-mt.github.io/lab-to-app-webgl/Lab_to_App_1080p.mp4**
+- ดาวน์โหลด: [Lab_to_App_1080p.mp4](Lab_to_App_1080p.mp4) → กด Download raw file
 
 ## เรื่องราว (50 วินาที)
 
